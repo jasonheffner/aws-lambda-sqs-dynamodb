@@ -1,0 +1,10 @@
+{
+  "name": "aws-lambda-sqs-dynamodb",
+  "version": "0.0.1",
+  "description": "Demos an AWS lambda function written in node that pulls messages from SQS and saves to DynamoDb",
+  "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/leaflevellabs/aws-lambda-sqs-dynamodb.git"
+  }
+}
